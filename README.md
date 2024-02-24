@@ -6,7 +6,7 @@ Welcome to the Azure AI Search Python Playground! This repository contains a col
 
 Below is a list of the notebooks currently available in this repository:
 
-1. [**Azure AI Search Text Embedding Model Exploration**](azure-ai-search-text-embedding-3-large.ipynb) - This notebook demonstrates how to use the new OpenAI embeddings models within Azure AI Search. Learn how to generate embeddings for text data and use these embeddings for vector search tasks.
+1. [**Azure AI Search OpenAI Text-Embedding-3-Large Model Exploration**](azure-ai-search-text-embedding-3-large.ipynb) - This notebook demonstrates how to use the new OpenAI embeddings models within Azure AI Search. Learn how to generate embeddings for text data and use these embeddings for vector search tasks.
 
 ## Getting Started
 
