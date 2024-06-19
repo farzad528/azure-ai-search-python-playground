@@ -114,3 +114,13 @@ dmypy.json
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Ignore SQLite database files
+*.sqlite
+*.sqlite3
+
+# Ignore Streamlit credentials
+.streamlit/credentials.toml
+
+# Optionally ignore local Streamlit config if it's environment-specific
+.streamlit/config.toml
