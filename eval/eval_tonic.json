@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Why is PerksPlus considered a comprehensive health and wellness program?",
+        "answer": "PerksPlus is considered comprehensive because it offers reimbursement for a wide range of fitness activities including gym memberships, personal training, yoga and Pilates classes, fitness equipment purchases, and more.",
+        "reference_article": "PerksPlus"
+    },
+    {
+        "question": "Why is the Northwind Health Plus plan beneficial for employees?",
+        "answer": "The Northwind Health Plus plan is beneficial because it covers medical, vision, and dental services, prescription drug coverage, mental health and substance abuse coverage, preventive care services, and emergency services.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "Why does Contoso Electronics emphasize workplace safety?",
+        "answer": "Contoso Electronics emphasizes workplace safety to protect employees from hazards, ensure compliance with regulations, and maintain a productive and safe work environment.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Why is the Chief Financial Officer's role crucial at Contoso Electronics?",
+        "answer": "The CFO's role is crucial as it involves providing strategic direction, ensuring financial health, leading financial operations, and managing risks, which are all essential for the company's stability and growth.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Why is diversity and inclusion important at Contoso Electronics?",
+        "answer": "Diversity and inclusion are important because they promote equal opportunity, create an inclusive workplace, and enhance creativity and innovation by bringing diverse perspectives.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Why is the Employee Assistance Program valuable for employees?",
+        "answer": "The Employee Assistance Program is valuable because it provides confidential support for personal and work-related issues, including counseling and referral services, helping employees maintain their well-being.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Why is continuous education support important for Contoso Electronics?",
+        "answer": "Continuous education support is important as it helps employees enhance their skills and knowledge, contributing to personal growth and better job performance.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Why does Contoso Electronics invest in training and development?",
+        "answer": "Contoso Electronics invests in training and development to improve employee skills, promote career growth, and ensure the company remains competitive with a skilled workforce.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Why is the Director of Research and Development's role significant?",
+        "answer": "The Director of Research and Development's role is significant because they lead innovation, manage the R&D budget, and ensure successful product launches, driving the company's technological advancement.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Why is data security a priority at Contoso Electronics?",
+        "answer": "Data security is a priority to protect customer information, maintain trust, comply with legal requirements, and prevent data breaches that could harm the company and its customers.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "\"expense up to $1000 for fitness-related programs\"",
+        "answer": "PerksPlus offers reimbursement up to $1000 for fitness-related programs.",
+        "reference_article": "PerksPlus"
+    },
+    {
+        "question": "\"medical, vision, and dental services, prescription drug coverage, mental health and substance abuse coverage\"",
+        "answer": "Northwind Health Plus covers medical, vision, and dental services, prescription drug coverage, mental health and substance abuse coverage.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "\"encrypts customer data, restricts access to authorized personnel, protects digital devices with security software\"",
+        "answer": "Contoso Electronics encrypts customer data, restricts access to authorized personnel, and protects digital devices with security software.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "\"annual performance reviews to set goals, provide feedback, and discuss career development\"",
+        "answer": "Contoso Electronics conducts annual performance reviews to set goals, provide feedback, and discuss career development.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "\"401(k) plans with company matching contributions\"",
+        "answer": "Contoso Electronics offers 401(k) plans with company matching contributions.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "\"commitment to equal opportunity, creating an inclusive workplace, and promoting diversity at all levels of the organization\"",
+        "answer": "Contoso Electronics is committed to equal opportunity, creating an inclusive workplace, and promoting diversity at all levels of the organization.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "\"safety training to ensure that employees are aware of safety procedures and protocols\"",
+        "answer": "Contoso Electronics provides safety training to ensure that employees are aware of safety procedures and protocols.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "\"programs and resources to support physical and mental health, such as fitness challenges, health screenings, and wellness workshops\"",
+        "answer": "Contoso Electronics' Wellness Program offers programs and resources to support physical and mental health, such as fitness challenges, health screenings, and wellness workshops.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "\"formal grievance procedure that includes reporting, investigation, and resolution steps\"",
+        "answer": "Contoso Electronics handles employee grievances through a formal grievance procedure that includes reporting, investigation, and resolution steps.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "\"provides confidential support for personal and work-related issues, including counseling and referral services\"",
+        "answer": "The Employee Assistance Program at Contoso Electronics provides confidential support for personal and work-related issues, including counseling and referral services.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "PerksPlus fitness reimbursement program",
+        "answer": "PerksPlus offers reimbursement up to $1000 for fitness-related programs.",
+        "reference_article": "PerksPlus"
+    },
+    {
+        "question": "Northwind Health Plus benefits",
+        "answer": "Northwind Health Plus covers medical, vision, and dental services, prescription drug coverage, mental health and substance abuse coverage, preventive care services, and emergency services.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "Contoso workplace safety program",
+        "answer": "Contoso Electronics emphasizes workplace safety to protect employees from hazards, ensure compliance with regulations, and maintain a productive and safe work environment.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Contoso CFO responsibilities",
+        "answer": "The CFO's role involves providing strategic direction, ensuring financial health, leading financial operations, and managing risks.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "diversity and inclusion at Contoso",
+        "answer": "Contoso Electronics promotes equal opportunity, creates an inclusive workplace, and enhances creativity and innovation by bringing diverse perspectives.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Employee Assistance Program Contoso",
+        "answer": "The Employee Assistance Program provides confidential support for personal and work-related issues, including counseling and referral services.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "education support Contoso",
+        "answer": "Contoso Electronics offers tuition reimbursement for job-related courses and degree programs.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "training and development Contoso",
+        "answer": "Contoso Electronics invests in training and development to improve employee skills, promote career growth, and ensure the company remains competitive.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Director of Research and Development role",
+        "answer": "The Director of Research and Development leads innovation, manages the R&D budget, and ensures successful product launches.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "data security at Contoso",
+        "answer": "Contoso Electronics encrypts customer data, restricts access to authorized personnel, protects digital devices with security software, requires complex passwords, backs up data regularly, and securely destroys data when no longer needed.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Comprehensive wellness program for employees",
+        "answer": "PerksPlus offers reimbursement up to $1000 for a wide range of fitness activities including gym memberships, personal training, yoga and Pilates classes, and more.",
+        "reference_article": "PerksPlus"
+    },
+    {
+        "question": "Detailed medical coverage plan",
+        "answer": "Northwind Health Plus covers medical, vision, and dental services, prescription drug coverage, mental health and substance abuse coverage, preventive care services, and emergency services.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "Efficient safety training for workers",
+        "answer": "Contoso Electronics provides safety training to ensure that employees are aware of safety procedures and protocols.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Financial health and strategic direction",
+        "answer": "The CFO's role is crucial as it involves providing strategic direction, ensuring financial health, leading financial operations, and managing risks, which are all essential for the company's stability and growth.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Equal opportunity workplace",
+        "answer": "Contoso Electronics promotes equal opportunity, creates an inclusive workplace, and enhances creativity and innovation by bringing diverse perspectives.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Confidential support services",
+        "answer": "The Employee Assistance Program at Contoso Electronics provides confidential support for personal and work-related issues, including counseling and referral services.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Support for further education",
+        "answer": "Contoso Electronics offers tuition reimbursement for job-related courses and degree programs.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Skill enhancement initiatives",
+        "answer": "Contoso Electronics invests in training and development to improve employee skills, promote career growth, and ensure the company remains competitive.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Leading innovation and product launches",
+        "answer": "The Director of Research and Development leads innovation, manages the R&D budget, and ensures successful product launches.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Protecting customer data",
+        "answer": "Contoso Electronics encrypts customer data, restricts access to authorized personnel, protects digital devices with security software, requires complex passwords, backs up data regularly, and securely destroys data when no longer needed.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "How much can employees expense under PerksPlus?",
+        "answer": "Up to $1000",
+        "reference_article": "PerksPlus"
+    },
+    {
+        "question": "What services does Northwind Health Plus cover?",
+        "answer": "Medical, vision, and dental services, prescription drug coverage, mental health and substance abuse coverage, preventive care services, and emergency services.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "How often are performance reviews conducted at Contoso Electronics?",
+        "answer": "Annually",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What should employees do if they witness workplace violence?",
+        "answer": "Immediately notify their supervisor or Human Resources Representative.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What is the main goal of the Contoso Electronics Workplace Safety Program?",
+        "answer": "To protect employees from workplace hazards.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What does the Northwind Standard plan not cover?",
+        "answer": "Emergency services, mental health and substance abuse coverage, and out-of-network services.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "What are the core values of Contoso Electronics?",
+        "answer": "Quality, Integrity, Innovation, Teamwork, Respect, Excellence, Accountability, and Community.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What is the main responsibility of the Director of Research and Development?",
+        "answer": "Leading research and development activities, innovating new products and technologies, managing the R&D budget, and ensuring successful product launches.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "What kind of support does Contoso Electronics offer for mental health?",
+        "answer": "Access to counseling services through the Employee Assistance Program and mental health coverage under health insurance plans.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What is included in Contoso Electronics' privacy policy?",
+        "answer": "Collection, storage, and use of personal information, data security measures, access to personal information, and procedures for changes to the policy.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Mental health coverage Northwind",
+        "answer": "Northwind Health Plus provides mental health and substance abuse coverage.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "PerksPlus reimbursement limit",
+        "answer": "PerksPlus offers reimbursement up to $1000 for fitness-related programs.",
+        "reference_article": "PerksPlus"
+    },
+    {
+        "question": "Workplace safety training",
+        "answer": "Contoso Electronics provides safety training to ensure that employees are aware of safety procedures and protocols.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "CFO role Contoso",
+        "answer": "The CFO's role involves providing strategic direction, ensuring financial health, leading financial operations, and managing risks.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Diversity policy Contoso",
+        "answer": "Contoso Electronics is committed to equal opportunity, creating an inclusive workplace, and promoting diversity at all levels of the organization.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Employee Assistance Program",
+        "answer": "The Employee Assistance Program provides confidential support for personal and work-related issues, including counseling and referral services.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Tuition reimbursement Contoso",
+        "answer": "Contoso Electronics offers tuition reimbursement for job-related courses and degree programs.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Training development Contoso",
+        "answer": "Contoso Electronics invests in training and development to improve employee skills, promote career growth, and ensure the company remains competitive.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Data security measures",
+        "answer": "Contoso Electronics encrypts customer data, restricts access to authorized personnel, protects digital devices with security software, requires complex passwords, backs up data regularly, and securely destroys data when no longer needed.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Director of R&D role",
+        "answer": "The Director of Research and Development leads innovation, manages the R&D budget, and ensures successful product launches.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Mentl helth coverage Northwind",
+        "answer": "Northwind Health Plus provides mental health and substance abuse coverage.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "PerksPlus reimbursment limit",
+        "answer": "PerksPlus offers reimbursement up to $1000 for fitness-related programs.",
+        "reference_article": "PerksPlus"
+    },
+    {
+        "question": "Wrkplace safety training",
+        "answer": "Contoso Electronics provides safety training to ensure that employees are aware of safety procedures and protocols.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "CFO roal Contoso",
+        "answer": "The CFO's role involves providing strategic direction, ensuring financial health, leading financial operations, and managing risks.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Diversoty policy Contoso",
+        "answer": "Contoso Electronics is committed to equal opportunity, creating an inclusive workplace, and promoting diversity at all levels of the organization.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Employe Assistance Program",
+        "answer": "The Employee Assistance Program provides confidential support for personal and work-related issues, including counseling and referral services.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Tution reimbursement Contoso",
+        "answer": "Contoso Electronics offers tuition reimbursement for job-related courses and degree programs.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Traning development Contoso",
+        "answer": "Contoso Electronics invests in training and development to improve employee skills, promote career growth, and ensure the company remains competitive.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Dta security measures",
+        "answer": "Contoso Electronics encrypts customer data, restricts access to authorized personnel, protects digital devices with security software, requires complex passwords, backs up data regularly, and securely destroys data when no longer needed.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Director of R&D roll",
+        "answer": "The Director of Research and Development leads innovation, manages the R&D budget, and ensures successful product launches.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Explain how PerksPlus supports both physical and mental health of employees, including examples of activities and lessons covered under the program.",
+        "answer": "PerksPlus supports both physical and mental health by offering reimbursement for fitness activities such as gym memberships, personal training, yoga, and Pilates classes, as well as mental health resources like wellness workshops and health retreats.",
+        "reference_article": "PerksPlus"
+    },
+    {
+        "question": "Describe the comprehensive coverage provided by Northwind Health Plus and its benefits for employees.",
+        "answer": "Northwind Health Plus offers comprehensive coverage including medical, vision, and dental services, prescription drug coverage, mental health and substance abuse coverage, preventive care services, and emergency services, benefiting employees by ensuring broad health support.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "Discuss the importance of workplace safety training at Contoso Electronics and the measures taken to implement it.",
+        "answer": "Workplace safety training at Contoso Electronics is crucial to protect employees from hazards, ensure regulatory compliance, and maintain productivity. Measures include regular safety training sessions, use of personal protective equipment, and emergency preparedness drills.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "How does the role of the Chief Financial Officer contribute to the financial stability and growth of Contoso Electronics?",
+        "answer": "The CFO contributes to financial stability and growth by providing strategic direction, managing financial operations, analyzing financial data, ensuring accurate financial reporting, and overseeing budgeting and forecasting processes.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Explain the diversity and inclusion initiatives at Contoso Electronics and their impact on the workplace culture.",
+        "answer": "Diversity and inclusion initiatives at Contoso Electronics include equal opportunity policies, diversity training, and inclusive hiring practices. These initiatives foster a respectful, innovative, and collaborative workplace culture.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What support does the Employee Assistance Program offer to Contoso Electronics employees facing personal or work-related issues?",
+        "answer": "The Employee Assistance Program offers confidential counseling, referral services, and support for issues such as stress, family problems, substance abuse, and work-related challenges.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "How does Contoso Electronics' tuition reimbursement program benefit employees pursuing further education?",
+        "answer": "The tuition reimbursement program supports employees by covering costs for job-related courses and degree programs, encouraging professional development and career advancement.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What are the responsibilities of the Director of Research and Development at Contoso Electronics, and how do they drive innovation?",
+        "answer": "The Director of Research and Development oversees R&D activities, manages the R&D budget, leads innovation projects, and ensures the successful launch of new products, driving technological advancement and competitive edge.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Describe the measures Contoso Electronics takes to ensure data security and protect customer information.",
+        "answer": "Contoso Electronics implements data encryption, restricts access to authorized personnel, uses security software, requires complex passwords, performs regular backups, and securely destroys data when no longer needed.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "How does Contoso Electronics' training and development program enhance employee skills and contribute to the company's success?",
+        "answer": "The training and development program offers various training opportunities, workshops, and career development initiatives, enhancing employee skills, boosting job performance, and contributing to the company's success.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "List three fitness activities covered by PerksPlus.",
+        "answer": "Gym memberships, personal training sessions, and yoga classes.",
+        "reference_article": "PerksPlus"
+    },
+    {
+        "question": "What does Northwind Health Plus cover?",
+        "answer": "Medical, vision, and dental services, prescription drug coverage, mental health and substance abuse coverage, preventive care services, and emergency services.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "What is the primary focus of Contoso Electronics' mission?",
+        "answer": "To provide the highest quality aircraft components to customers while maintaining a commitment to safety and excellence.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What are Contoso Electronics' core values?",
+        "answer": "Quality, Integrity, Innovation, Teamwork, Respect, Excellence, Accountability, and Community.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What kind of training does Contoso Electronics provide for workplace safety?",
+        "answer": "Safety training to ensure that employees are aware of safety procedures and protocols.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What actions does Contoso Electronics take to ensure data security?",
+        "answer": "Encrypts customer data, restricts access to authorized personnel, protects digital devices with security software, requires complex passwords, backs up data regularly, and securely destroys data when no longer needed.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What are the responsibilities of the Chief Operating Officer at Contoso Electronics?",
+        "answer": "Overseeing day-to-day operations, ensuring efficient and effective operations, collaborating with the executive team, developing and implementing strategies, and ensuring compliance with laws and regulations.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "What are the responsibilities of the Vice President of Sales at Contoso Electronics?",
+        "answer": "Driving sales and revenue growth, leading the sales team, managing sales strategies, developing new customer relationships, and achieving sales targets.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "What is included in Contoso Electronics' privacy policy?",
+        "answer": "Collection, storage, and use of personal information, data security measures, access to personal information, and procedures for changes to the policy.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "What is the job of the Director of Research and Development at Contoso Electronics?",
+        "answer": "Leading research and development activities, innovating new products and technologies, managing the R&D budget, and ensuring successful product launches.",
+        "reference_article": "Role Library"
+    },
+    {
+        "question": "Plan exclusions",
+        "answer": "Emergency services, mental health and substance abuse coverage, and out-of-network services are excluded under the Northwind Standard plan.",
+        "reference_article": "Benefit Options"
+    },
+    {
+        "question": "Tuition reimbursement",
+        "answer": "Contoso Electronics offers tuition reimbursement for job-related courses and degree programs.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Mental health support",
+        "answer": "Access to counseling services through the Employee Assistance Program and mental health coverage under health insurance plans.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Employee recognition",
+        "answer": "Acknowledging and rewarding employee achievements and contributions to the company's success.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "401(k) plans",
+        "answer": "Contoso Electronics offers 401(k) plans with company matching contributions.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Data security",
+        "answer": "Encrypts customer data, restricts access to authorized personnel, protects digital devices with security software, requires complex passwords, backs up data regularly, and securely destroys data when no longer needed.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Workplace harassment",
+        "answer": "Zero tolerance for harassment of any kind, with a commitment to providing a safe and respectful work environment.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Safety training",
+        "answer": "Safety training to ensure that employees are aware of safety procedures and protocols.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Core values",
+        "answer": "Quality, Integrity, Innovation, Teamwork, Respect, Excellence, Accountability, and Community.",
+        "reference_article": "Employee Handbook"
+    },
+    {
+        "question": "Grievance procedure",
+        "answer": "Formal grievance procedure that includes reporting, investigation, and resolution steps.",
+        "reference_article": "Employee Handbook"
+    }
+]
