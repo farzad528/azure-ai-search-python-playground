@@ -6,7 +6,14 @@ Welcome to the Azure AI Search Python Playground! This repository contains a col
 
 Below is a list of the notebooks currently available in this repository:
 
-1. [**Azure AI Search OpenAI Text-Embedding-3-Large Model Exploration**](azure-ai-search-text-embedding-3-large.ipynb) - This notebook demonstrates how to use the new OpenAI embeddings models within Azure AI Search. Learn how to generate embeddings for text data and use these embeddings for vector search tasks.
+1. [**Azure AI Search OpenAI Text-Embedding-3-Large Model Exploration**](azure-ai-search-text-embedding-3-large.ipynb) - This notebook demonstrates how to use the new OpenAI embeddings models within Azure AI Search. 
+2. [**Azure AI Search Cohere Embed-v3 Exploration**](azure-ai-search-cohere-embed-v3.ipynb) - Explore the capabilities of the Cohere Embed-v3 model with Azure AI Search.
+3. [**Azure AI Search with CSV Data**](azure-ai-search-csv.ipynb) - Utilize CSV data in Azure AI Search for indexing and querying.
+4. [**Azure AI Search Document Boosting**](azure-ai-search-document-boosting.ipynb) - Learn techniques for boosting document relevance in Azure AI Search.
+5. [**Azure AI Search RAG Evaluation with Tonic AI**](azure-ai-search-rag-eval-tonic-ai.ipynb) - Evaluate Retrieval-Augmented Generation (RAG) systems using Tonic AI Validate.
+6. [**Azure AI Search RAG Evaluation with TruLens**](azure-ai-search-rag-eval-trulens.ipynb) - Evaluate RAG systems using the TruLens framework.
+7. [**Azure AI Search Scalar Quantization**](azure-ai-search-scalar-quantization.ipynb) - Implement scalar quantization techniques in Azure AI Search to optimize performance.
+
 
 ## Getting Started
 
