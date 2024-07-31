@@ -1,0 +1,100 @@
+{"query": "Why is PerksPlus considered a comprehensive health and wellness program?", "query_classification": "Concept seeking queries"}
+{"query": "How does the Northwind Health Plus plan differ from the Northwind Standard plan in terms of mental health coverage?", "query_classification": "Concept seeking queries"}
+{"query": "What are the core values of Contoso Electronics, and how do they guide employee interactions?", "query_classification": "Concept seeking queries"}
+{"query": "What steps should an employee take to coordinate benefits with other health plans under the Northwind Standard Plan?", "query_classification": "Concept seeking queries"}
+{"query": "How do performance reviews at Contoso Electronics support employee development?", "query_classification": "Concept seeking queries"}
+{"query": "What types of fitness activities are covered under the PerksPlus program?", "query_classification": "Concept seeking queries"}
+{"query": "Why is it important for employees to understand the exclusions in the Northwind Standard Plan?", "query_classification": "Concept seeking queries"}
+{"query": "What should an employee know about the clinical review process in the Northwind Standard Plan?", "query_classification": "Concept seeking queries"}
+{"query": "How does Contoso Electronics ensure workplace safety for its employees?", "query_classification": "Concept seeking queries"}
+{"query": "What are the differences in coverage for vision and dental services between Northwind Health Plus and Northwind Standard?", "query_classification": "Concept seeking queries"}
+{"query": "expense up to $1000 for fitness-related programs", "query_classification": "Exact snippet search"}
+{"query": "includes coverage for newborn care", "query_classification": "Exact snippet search"}
+{"query": "coverage for both brand name and generic medications", "query_classification": "Exact snippet search"}
+{"query": "coordination of benefits will not be available for services related to emergency care, mental health and substance abuse treatment", "query_classification": "Exact snippet search"}
+{"query": "offers coverage for emergency services, both in-network and out-of-network", "query_classification": "Exact snippet search"}
+{"query": "an important part of your career development", "query_classification": "Exact snippet search"}
+{"query": "provides financial protection to employees in the event of a work-related injury or illness", "query_classification": "Exact snippet search"}
+{"query": "designed to help you achieve your health goals and optimize your care", "query_classification": "Exact snippet search"}
+{"query": "The Northwind Standard plan does not cover certain medications, including drugs used for weight loss or fertility treatments", "query_classification": "Exact snippet search"}
+{"query": "provides access to an online cost estimator tool", "query_classification": "Exact snippet search"}
+{"query": "PerksPlus fitness reimbursement program", "query_classification": "Web search-like queries"}
+{"query": "Northwind Health Plus vs Standard comparison", "query_classification": "Web search-like queries"}
+{"query": "Contoso Electronics core values", "query_classification": "Web search-like queries"}
+{"query": "Coordinating benefits Northwind Standard Plan", "query_classification": "Web search-like queries"}
+{"query": "Performance reviews Contoso Electronics", "query_classification": "Web search-like queries"}
+{"query": "Activities covered under PerksPlus", "query_classification": "Web search-like queries"}
+{"query": "Exclusions in Northwind Standard Plan", "query_classification": "Web search-like queries"}
+{"query": "Northwind Standard Plan clinical review process", "query_classification": "Web search-like queries"}
+{"query": "Contoso Electronics workplace safety", "query_classification": "Web search-like queries"}
+{"query": "Vision and dental coverage Northwind plans", "query_classification": "Web search-like queries"}
+{"query": "Comprehensive wellness program for employees", "query_classification": "Low query/doc term overlap"}
+{"query": "Difference between health plans in mental care", "query_classification": "Low query/doc term overlap"}
+{"query": "Principles guiding Contoso's employee behavior", "query_classification": "Low query/doc term overlap"}
+{"query": "Steps to manage multiple health coverages", "query_classification": "Low query/doc term overlap"}
+{"query": "Annual reviews for career progress", "query_classification": "Low query/doc term overlap"}
+{"query": "Variety of exercises supported by PerksPlus", "query_classification": "Low query/doc term overlap"}
+{"query": "Understanding plan limitations", "query_classification": "Low query/doc term overlap"}
+{"query": "Health plan approval procedures", "query_classification": "Low query/doc term overlap"}
+{"query": "Ensuring safety at Contoso workplaces", "query_classification": "Low query/doc term overlap"}
+{"query": "Dental and vision benefits comparison", "query_classification": "Low query/doc term overlap"}
+{"query": "How much can employees expense under PerksPlus?", "query_classification": "Fact seeking queries"}
+{"query": "Which plan offers mental health coverage, Plus or Standard?", "query_classification": "Fact seeking queries"}
+{"query": "What are the core values of Contoso Electronics?", "query_classification": "Fact seeking queries"}
+{"query": "Is coordination of benefits available for emergency care?", "query_classification": "Fact seeking queries"}
+{"query": "How often are performance reviews conducted at Contoso?", "query_classification": "Fact seeking queries"}
+{"query": "Name three activities covered by PerksPlus.", "query_classification": "Fact seeking queries"}
+{"query": "Does Northwind Standard cover mental health services?", "query_classification": "Fact seeking queries"}
+{"query": "Who conducts the clinical review in Northwind Standard Plan?", "query_classification": "Fact seeking queries"}
+{"query": "What is Contoso Electronics' stance on workplace safety?", "query_classification": "Fact seeking queries"}
+{"query": "Which plan covers emergency services?", "query_classification": "Fact seeking queries"}
+{"query": "PerksPlus reimbursement", "query_classification": "Keyword queries"}
+{"query": "Mental health coverage Northwind", "query_classification": "Keyword queries"}
+{"query": "Contoso core values", "query_classification": "Keyword queries"}
+{"query": "Coordination of benefits", "query_classification": "Keyword queries"}
+{"query": "Annual performance review", "query_classification": "Keyword queries"}
+{"query": "Fitness activities covered", "query_classification": "Keyword queries"}
+{"query": "Plan exclusions", "query_classification": "Keyword queries"}
+{"query": "Clinical review process", "query_classification": "Keyword queries"}
+{"query": "Workplace safety policy", "query_classification": "Keyword queries"}
+{"query": "Vision dental comparison", "query_classification": "Keyword queries"}
+{"query": "PurksPlus reimbursment", "query_classification": "Queries with misspellings"}
+{"query": "Mentl helth coverage Northwind", "query_classification": "Queries with misspellings"}
+{"query": "Contso core values", "query_classification": "Queries with misspellings"}
+{"query": "Coordnation of benfits", "query_classification": "Queries with misspellings"}
+{"query": "Anual performance review", "query_classification": "Queries with misspellings"}
+{"query": "Fitnss activities covered", "query_classification": "Queries with misspellings"}
+{"query": "Plan exclusons", "query_classification": "Queries with misspellings"}
+{"query": "Clincal review process", "query_classification": "Queries with misspellings"}
+{"query": "Workplac safety policy", "query_classification": "Queries with misspellings"}
+{"query": "Vision dntal comparison", "query_classification": "Queries with misspellings"}
+{"query": "Explain how PerksPlus supports both physical and mental health of employees, including examples of activities and lessons covered under the program.", "query_classification": "Long queries"}
+{"query": "Compare the coverage differences between Northwind Health Plus and Northwind Standard, particularly in terms of mental health services, emergency care, and prescription drug coverage.", "query_classification": "Long queries"}
+{"query": "Describe the core values of Contoso Electronics and how these values influence the company's approach to business and employee interactions.", "query_classification": "Long queries"}
+{"query": "Outline the steps an employee should take to coordinate their benefits with other health care plans under the Northwind Standard Plan, including any important documentation required.", "query_classification": "Long queries"}
+{"query": "Discuss the importance of performance reviews at Contoso Electronics and how they contribute to employee development, including the process and feedback mechanisms used.", "query_classification": "Long queries"}
+{"query": "Provide a detailed list of fitness activities and lessons that are eligible for reimbursement under the PerksPlus program, and mention any specific exclusions.", "query_classification": "Long queries"}
+{"query": "Why is it crucial for employees to understand the exclusions in the Northwind Standard Plan, and how can this knowledge impact their healthcare decisions?", "query_classification": "Long queries"}
+{"query": "Explain the clinical review process under the Northwind Standard Plan, including the different levels of review and the types of services that may be exempt from this process.", "query_classification": "Long queries"}
+{"query": "Describe the measures Contoso Electronics has implemented to ensure workplace safety, including any programs or policies in place to protect employees from hazards.", "query_classification": "Long queries"}
+{"query": "Compare the vision and dental coverage provided by Northwind Health Plus and Northwind Standard, including specific services and treatments covered by each plan.", "query_classification": "Long queries"}
+{"query": "What is the reimbursement limit under PerksPlus?", "query_classification": "Medium queries"}
+{"query": "Does Northwind Standard cover emergency services?", "query_classification": "Medium queries"}
+{"query": "What are Contoso Electronics' core values?", "query_classification": "Medium queries"}
+{"query": "How to coordinate benefits with other health plans?", "query_classification": "Medium queries"}
+{"query": "How often are performance reviews conducted?", "query_classification": "Medium queries"}
+{"query": "List three fitness activities covered by PerksPlus.", "query_classification": "Medium queries"}
+{"query": "Are mental health services covered under Northwind Standard?", "query_classification": "Medium queries"}
+{"query": "Who conducts the clinical review process?", "query_classification": "Medium queries"}
+{"query": "What safety measures does Contoso Electronics have?", "query_classification": "Medium queries"}
+{"query": "What vision and dental services are covered?", "query_classification": "Medium queries"}
+{"query": "PerksPlus coverage", "query_classification": "Short queries"}
+{"query": "Emergency services", "query_classification": "Short queries"}
+{"query": "Core values", "query_classification": "Short queries"}
+{"query": "Benefits coordination", "query_classification": "Short queries"}
+{"query": "Performance reviews", "query_classification": "Short queries"}
+{"query": "Fitness covered", "query_classification": "Short queries"}
+{"query": "Plan exclusions", "query_classification": "Short queries"}
+{"query": "Clinical review", "query_classification": "Short queries"}
+{"query": "Safety measures", "query_classification": "Short queries"}
+{"query": "Dental vision", "query_classification": "Short queries"}
