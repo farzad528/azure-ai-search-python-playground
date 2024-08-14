@@ -13,7 +13,7 @@ Below is a list of the notebooks currently available in this repository:
 5. [**Azure AI Search RAG Evaluation with Tonic AI**](azure-ai-search-rag-eval-tonic-ai.ipynb) - Evaluate Retrieval-Augmented Generation (RAG) systems using Tonic AI Validate.
 6. [**Azure AI Search RAG Evaluation with TruLens**](azure-ai-search-rag-eval-trulens.ipynb) - Evaluate RAG systems using the TruLens framework.
 7. [**Azure AI Search Scalar Quantization**](azure-ai-search-scalar-quantization.ipynb) - Implement scalar quantization techniques in Azure AI Search to optimize performance.
-8. [**Azure AI Search Scalar Quantization**](azure-ai-search-llamaindex-workflows.ipynb) - This notebook provides an in-depth exploration of creating workflows using the LlamaIndex framework. It demonstrates how to build event-driven, asynchronous workflows for tasks like RAG using Azure AI Search and OpenAI models.
+8. [**Azure AI Search Llamaindex Workflows**](azure-ai-search-llamaindex-workflows.ipynb) - This notebook provides an in-depth exploration of creating workflows using the LlamaIndex framework. It demonstrates how to build event-driven, asynchronous workflows for tasks like RAG using Azure AI Search and OpenAI models.
 5. [**Azure AI Search RAG Evaluation with Arize Phoenix**](azure-ai-search-rag-eval-arize-ai.ipynb) - Evaluate Retrieval-Augmented Generation (RAG) systems using Arize Phoenix AI
 
 
