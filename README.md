@@ -16,6 +16,7 @@ Below is a list of the notebooks currently available in this repository:
 8. [**Azure AI Search Llamaindex Workflows**](azure-ai-search-llamaindex-workflows.ipynb) - This notebook provides an in-depth exploration of creating workflows using the LlamaIndex framework. It demonstrates how to build event-driven, asynchronous workflows for tasks like RAG using Azure AI Search and OpenAI models.
 9. [**Azure AI Search RAG Evaluation with Arize Phoenix**](azure-ai-search-rag-eval-arize-ai.ipynb) - Evaluate Retrieval-Augmented Generation (RAG) systems using Arize Phoenix AI
 10.[**Azure AI Search Legal AI Agent with CrewAI**](azure-ai-search-crewai.ipynb) - Build a CrewAI Agent for a complex Legal AI Scenario using Azure AI Search, Azure OpenAI, and LlamaIndex.
+11.[**Azure AI Search NVIDIA RAG w/LLamaIndex**](azure-ai-search-nvidia-rag.ipynb) - Build a RAG system using Azure AI Search, NVIDIA NIM hosted APIs for Embeddings and LLMs, orchestrated via LlamaIndex.
 
 
 ## Getting Started
