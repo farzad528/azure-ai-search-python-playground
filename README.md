@@ -4,20 +4,44 @@ Welcome to the Azure AI Search Python Playground! This repository contains a col
 
 ## Notebooks
 
-Below is a list of the notebooks currently available in this repository:
+This repository contains a collection of Jupyter notebooks that demonstrate various integrations and functionalities using Azure AI Search and related technologies.
 
-1. [**Azure AI Search OpenAI Text-Embedding-3-Large Model Exploration**](azure-ai-search-text-embedding-3-large.ipynb) - This notebook demonstrates how to use the new OpenAI embeddings models within Azure AI Search. 
-2. [**Azure AI Search Cohere Embed-v3 Exploration**](azure-ai-search-cohere-embed-v3.ipynb) - Explore the capabilities of the Cohere Embed-v3 model with Azure AI Search.
-3. [**Azure AI Search with CSV Data**](azure-ai-search-csv.ipynb) - Utilize CSV data in Azure AI Search for indexing and querying.
-4. [**Azure AI Search Document Boosting**](azure-ai-search-document-boosting.ipynb) - Learn techniques for boosting document relevance in Azure AI Search.
-5. [**Azure AI Search RAG Evaluation with Tonic AI**](azure-ai-search-rag-eval-tonic-ai.ipynb) - Evaluate Retrieval-Augmented Generation (RAG) systems using Tonic AI Validate.
-6. [**Azure AI Search RAG Evaluation with TruLens**](azure-ai-search-rag-eval-trulens.ipynb) - Evaluate RAG systems using the TruLens framework.
-7. [**Azure AI Search Scalar Quantization**](azure-ai-search-scalar-quantization.ipynb) - Implement scalar quantization techniques in Azure AI Search to optimize performance.
-8. [**Azure AI Search Llamaindex Workflows**](azure-ai-search-llamaindex-workflows.ipynb) - This notebook provides an in-depth exploration of creating workflows using the LlamaIndex framework. It demonstrates how to build event-driven, asynchronous workflows for tasks like RAG using Azure AI Search and OpenAI models.
-9. [**Azure AI Search RAG Evaluation with Arize Phoenix**](azure-ai-search-rag-eval-arize-ai.ipynb) - Evaluate Retrieval-Augmented Generation (RAG) systems using Arize Phoenix AI
-10.[**Azure AI Search Legal AI Agent with CrewAI**](azure-ai-search-legal-ai-agent.ipynb) - Build a CrewAI Agent for a complex Legal AI Scenario using Azure AI Search, Azure OpenAI, and LlamaIndex.
-11.[**Azure AI Search NVIDIA RAG w/LLamaIndex**](azure-ai-search-nvidia-rag.ipynb) - Build a RAG system using Azure AI Search, NVIDIA NIM hosted APIs for Embeddings and LLMs, orchestrated via LlamaIndex.
-12.[**Azure AI Search Medical AI Agent with CrewAI**](azure-ai-search-medical-ai-agent.ipynb) - Build a multi-agent medical decision support system for cardiology using Azure AI Search, Azure OpenAI, and LlamaIndex, LlamaParse, and CrewAI. This notebook simulates a real-world patient scenario, generating personalized treatment recommendations based on cardiology guidelines.
+1. **[Azure AI Search OpenAI Text-Embedding-3-Large Model Exploration](azure-ai-search-text-embedding-3-large.ipynb)**  
+   Integrates OpenAI's text-embedding-3-large model with Azure AI Search for enhanced search capabilities.
+
+2. **[Azure AI Search Cohere Embed-v3 Exploration](azure-ai-search-cohere-embed-v3.ipynb)**  
+   Explores the Cohere Embed-v3 model within Azure AI Search to improve embedding performance.
+
+3. **[Azure AI Search with CSV Data](azure-ai-search-csv.ipynb)**  
+   Demonstrates how to index and query CSV data using Azure AI Search.
+
+4. **[Azure AI Search Document Boosting](azure-ai-search-document-boosting.ipynb)**  
+   Techniques for enhancing document relevance and search ranking in Azure AI Search.
+
+5. **[Azure AI Search RAG Evaluation with Tonic AI](azure-ai-search-rag-eval-tonic-ai.ipynb)**  
+   Evaluates Retrieval-Augmented Generation (RAG) systems using Tonic AI Validate.
+
+6. **[Azure AI Search RAG Evaluation with TruLens](azure-ai-search-rag-eval-trulens.ipynb)**  
+   Assesses RAG systems leveraging the TruLens framework for improved evaluation.
+
+7. **[Azure AI Search Scalar Quantization](azure-ai-search-scalar-quantization.ipynb)**  
+   Implements scalar quantization techniques to optimize Azure AI Search performance.
+
+8. **[Azure AI Search LlamaIndex Workflows](azure-ai-search-llamaindex-workflows.ipynb)**  
+   Builds event-driven, asynchronous workflows using the LlamaIndex framework with Azure AI Search and OpenAI models.
+
+9. **[Azure AI Search RAG Evaluation with Arize Phoenix](azure-ai-search-rag-eval-arize-ai.ipynb)**  
+   Evaluates RAG systems using Arize Phoenix AI for enhanced analytics.
+
+10. **[Azure AI Search Legal AI Agent with CrewAI](azure-ai-search-legal-ai-agent.ipynb)**  
+    Develops a CrewAI Agent for complex legal scenarios using Azure AI Search, Azure OpenAI, and LlamaIndex.
+
+11. **[Azure AI Search NVIDIA RAG with LlamaIndex](azure-ai-search-nvidia-rag.ipynb)**  
+    Constructs a RAG system integrating Azure AI Search, NVIDIA NIM APIs for embeddings and LLMs, orchestrated via LlamaIndex.
+
+12. **[Azure AI Search Medical AI Agent with CrewAI](azure-ai-search-medical-ai-agent.ipynb)**  
+    Builds a multi-agent medical decision support system for cardiology, generating personalized treatment recommendations based on guidelines using Azure AI Search, Azure OpenAI, LlamaIndex, LlamaParse, and CrewAI.
+
 
 
 ## Getting Started
