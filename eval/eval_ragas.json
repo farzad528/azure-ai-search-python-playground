@@ -1,0 +1,58 @@
+{
+    "question": {
+        "0": "What are the primary revenue pools in the EVCI value chain, and how are they distributed between hardware and software by 2030?",
+        "1": "How does the deployment of DC fast charging (DCFC) compare to Level 2 (L2) charging in terms of power consumption and market share by 2030?",
+        "2": "What specific upgrades are required for distribution transformers in residential areas when EV penetration reaches 30%?",
+        "3": "Describe the impact of non-charger costs on the total installation costs for fleet chargers and provide a breakdown.",
+        "4": "What role does energy management software play in optimizing EV charging time and reducing grid demand charges?",
+        "5": "Explain the effect of retrofitting civil infrastructure on EVCI installation costs, especially in older urban environments, based on trenching requirements.",
+        "6": "How does the grid infrastructure in Norway accommodate the increased power demand from EVs, and what demand-side management (DSM) solutions are currently implemented?",
+        "7": "Using the diagram of a multi-port DCFC complex with onsite energy storage, explain how peak load is reduced and how storage technology impacts overall electricity consumption.",
+        "8": "What are the potential risks and uncertainties that could affect EVCI deployment, especially regarding EV battery developments and grid infrastructure challenges?",
+        "9": "Analyze the operational and maintenance challenges for DCFC chargers compared to L2 chargers and how these issues affect customer support services."
+    },
+    "contexts": {
+        "0": [
+            "The EVCI value chain is split between hardware and software, each accounting for about $15B by 2030. Key revenue pools include grid upgrades, energy management solutions, and operations & maintenance."
+        ],
+        "1": [
+            "By 2030, DC fast charging (DCFC) will account for 15-20% of total charging kWh consumption, while Level 2 (L2) charging will remain the dominant technology for most passenger vehicles."
+        ],
+        "2": [
+            "Residential distribution transformers typically need upgrades once EV penetration exceeds 30%, as transformers can only support charging for about 2 EVs concurrently during peak load without exceeding their capacity."
+        ],
+        "3": [
+            "Non-charger costs such as electrical installation, site upgrades, and grid upgrades can represent up to 75% of total installation costs for fleet chargers. These costs are driven by local site conditions and the power requirements of the deployed chargers."
+        ],
+        "4": [
+            "Energy management software optimizes charging time, duration, and intensity to reduce peak demand charges and lower capital upgrade needs for grid infrastructure."
+        ],
+        "5": [
+            "Retrofitting civil infrastructure in older urban environments significantly increases installation costs, with trenching costs adding up to $200 per foot for laying conduit."
+        ],
+        "6": [
+            "In Norway, the grid is relatively robust but demand-side management (DSM) solutions like dynamic electricity pricing and coordinated EV charge management are being used to mitigate capacity constraints during peak hours."
+        ],
+        "7": [
+            "The diagram of a multi-port DCFC complex shows that onsite energy storage can shave peak loads by discharging stored energy during high-demand periods, thus reducing the grid's overall power consumption."
+        ],
+        "8": [
+            "Risks to EVCI deployment include limitations in grid infrastructure, potential breakthroughs in EV batteries that require new charging technologies, and the need for large-scale grid upgrades to support higher power chargers."
+        ],
+        "9": [
+            "DCFC chargers face more frequent operational and maintenance challenges than L2 chargers, leading to higher requirements for technician support and customer care due to the complexity and sensitivity of high-power systems."
+        ]
+    },
+    "ground_truth": {
+        "0": "The primary revenue pools in the EVCI value chain are evenly distributed between hardware (~$15B) and software/services (~$15B) by 2030, with key revenue pools including grid upgrades, energy management solutions, and operations & maintenance.",
+        "1": "By 2030, DC fast charging (DCFC) will account for 15-20% of total charging kWh consumption, while Level 2 (L2) charging will remain the dominant technology for most passenger vehicles.",
+        "2": "Residential distribution transformers typically need upgrades once EV penetration exceeds 30%, as transformers can only support charging for about 2 EVs concurrently during peak load without exceeding their capacity.",
+        "3": "Non-charger costs such as electrical installation, site upgrades, and grid upgrades can represent up to 75% of total installation costs for fleet chargers. These costs are driven by local site conditions and the power requirements of the deployed chargers.",
+        "4": "Energy management software optimizes charging time, duration, and intensity to reduce peak demand charges and lower capital upgrade needs for grid infrastructure.",
+        "5": "Retrofitting civil infrastructure in older urban environments significantly increases installation costs, with trenching costs adding up to $200 per foot for laying conduit.",
+        "6": "In Norway, the grid is relatively robust but demand-side management (DSM) solutions like dynamic electricity pricing and coordinated EV charge management are being used to mitigate capacity constraints during peak hours.",
+        "7": "The diagram of a multi-port DCFC complex shows that onsite energy storage can shave peak loads by discharging stored energy during high-demand periods, thus reducing the grid's overall power consumption.",
+        "8": "Risks to EVCI deployment include limitations in grid infrastructure, potential breakthroughs in EV batteries that require new charging technologies, and the need for large-scale grid upgrades to support higher power chargers.",
+        "9": "DCFC chargers face more frequent operational and maintenance challenges than L2 chargers, leading to higher requirements for technician support and customer care due to the complexity and sensitivity of high-power systems."
+    }
+}
