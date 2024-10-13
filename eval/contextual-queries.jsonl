@@ -1,6 +1,101 @@
-{"query": "Why is PerksPlus considered a comprehensive health and wellness program?", "query_classification": "Concept seeking queries"}
-{"query": "How does the Northwind Health Plus plan differ from the Northwind Standard plan in terms of mental health coverage?", "query_classification": "Concept seeking queries"}
-{"query": "What are the core values of Contoso Electronics, and how do they guide employee interactions?", "query_classification": "Concept seeking queries"}
-{"query": "What are the key advancements of AlphaFold 3 in molecular docking, and how do they compare to previous versions?", "query_classification": "Concept seeking queries"}
-{"query": "How has Llama 3 improved performance in multimodal tasks compared to GPT-4o?", "query_classification": "Comparison seeking queries"}
-{"query": "What are the major challenges faced by Chinese AI labs despite their rapid progress in VLLM development?", "query_classification": "Fact-based queries"}
+{"query": "What are the key advancements of AI technologies in 2024 according to the State of AI report?", "query_classification": "Concept seeking queries"}
+{"query": "How does OpenAI's o1 model improve upon previous LLMs in terms of reasoning capabilities?", "query_classification": "Concept seeking queries"}
+{"query": "What are the implications of AI in the context of climate change as discussed in the report?", "query_classification": "Concept seeking queries"}
+{"query": "What challenges do AI researchers face when ensuring model safety and ethical deployment?", "query_classification": "Concept seeking queries"}
+{"query": "How does the report describe the role of AI in advancing scientific research?", "query_classification": "Concept seeking queries"}
+{"query": "What predictions does the report make about the future of AI regulation?", "query_classification": "Concept seeking queries"}
+{"query": "In what ways does the report indicate that AI is transforming various industries?", "query_classification": "Concept seeking queries"}
+{"query": "What safety measures are being recommended to mitigate risks associated with advanced AI systems?", "query_classification": "Concept seeking queries"}
+{"query": "How is the competition among AI models affecting innovation in the field?", "query_classification": "Concept seeking queries"}
+{"query": "What role does data curation play in the training of AI models as per the report?", "query_classification": "Concept seeking queries"}
+{"query": "What does the report specifically say about the performance of Claude 3 compared to GPT-4?", "query_classification": "Exact snippet search"}
+{"query": "Provide the exact text from the report discussing the advantages of using diffusion models in AI.", "query_classification": "Exact snippet search"}
+{"query": "What are the direct quotes regarding the challenges faced by AI startups in 2024?", "query_classification": "Exact snippet search"}
+{"query": "Find the section in the report that addresses the implications of AI in political contexts.", "query_classification": "Exact snippet search"}
+{"query": "Retrieve the statement about AI's impact on employment from the report.", "query_classification": "Exact snippet search"}
+{"query": "What does the report mention about the economic implications of AI advancements?", "query_classification": "Exact snippet search"}
+{"query": "Show the exact paragraph that discusses the role of AI in healthcare innovation.", "query_classification": "Exact snippet search"}
+{"query": "What does the report indicate about the safety measures needed for advanced AI systems?", "query_classification": "Exact snippet search"}
+{"query": "Provide the section that summarizes the trends in AI investment for 2024.", "query_classification": "Exact snippet search"}
+{"query": "What are the exact metrics mentioned for evaluating AI model performance in the report?", "query_classification": "Exact snippet search"}
+{"query": "What are the latest trends in AI technologies?", "query_classification": "Web search-like queries"}
+{"query": "Top AI predictions for the coming years?", "query_classification": "Web search-like queries"}
+{"query": "How AI is used in healthcare today?", "query_classification": "Web search-like queries"}
+{"query": "What is the current state of AI regulation?", "query_classification": "Web search-like queries"}
+{"query": "How is AI impacting the job market?", "query_classification": "Web search-like queries"}
+{"query": "Best practices for deploying AI solutions?", "query_classification": "Web search-like queries"}
+{"query": "What are the advantages of generative AI?", "query_classification": "Web search-like queries"}
+{"query": "Latest advancements in AI safety protocols?", "query_classification": "Web search-like queries"}
+{"query": "What are the ethical considerations in AI development?", "query_classification": "Web search-like queries"}
+{"query": "AI applications in the finance sector?", "query_classification": "Web search-like queries"}
+{"query": "impact of AI technologies on business", "query_classification": "Low query/doc term overlap"}
+{"query": "role of AI in scientific research advancements", "query_classification": "Low query/doc term overlap"}
+{"query": "benefits of AI in climate change initiatives", "query_classification": "Low query/doc term overlap"}
+{"query": "challenges faced by AI researchers in 2024", "query_classification": "Low query/doc term overlap"}
+{"query": "implications of AI on global economies", "query_classification": "Low query/doc term overlap"}
+{"query": "advancements in AI safety measures", "query_classification": "Low query/doc term overlap"}
+{"query": "transformative effects of AI in healthcare", "query_classification": "Low query/doc term overlap"}
+{"query": "AI's influence on job creation and destruction", "query_classification": "Low query/doc term overlap"}
+{"query": "effectiveness of AI in data analysis", "query_classification": "Low query/doc term overlap"}
+{"query": "future of AI regulation and governance", "query_classification": "Low query/doc term overlap"}
+{"query": "How many AI models are being used in healthcare?", "query_classification": "Fact seeking queries"}
+{"query": "What is the projected market size for AI technologies in 2025?", "query_classification": "Fact seeking queries"}
+{"query": "How many companies are investing in AI startups?", "query_classification": "Fact seeking queries"}
+{"query": "What percentage of businesses have adopted AI solutions?", "query_classification": "Fact seeking queries"}
+{"query": "How many AI research papers were published in 2023?", "query_classification": "Fact seeking queries"}
+{"query": "What is the average funding for AI startups in 2024?", "query_classification": "Fact seeking queries"}
+{"query": "How many regulatory frameworks exist for AI globally?", "query_classification": "Fact seeking queries"}
+{"query": "What is the growth rate of the AI industry?", "query_classification": "Fact seeking queries"}
+{"query": "How many countries have implemented AI strategies?", "query_classification": "Fact seeking queries"}
+{"query": "What is the accuracy rate of the latest AI models?", "query_classification": "Fact seeking queries"}
+{"query": "AI applications in finance", "query_classification": "Keyword queries"}
+{"query": "machine learning techniques", "query_classification": "Keyword queries"}
+{"query": "impact of AI on society", "query_classification": "Keyword queries"}
+{"query": "AI in education", "query_classification": "Keyword queries"}
+{"query": "importance of AI ethics", "query_classification": "Keyword queries"}
+{"query": "natural language processing tools", "query_classification": "Keyword queries"}
+{"query": "advancements in AI safety", "query_classification": "Keyword queries"}
+{"query": "role of AI in healthcare", "query_classification": "Keyword queries"}
+{"query": "challenges of AI implementation", "query_classification": "Keyword queries"}
+{"query": "future trends in AI", "query_classification": "Keyword queries"}
+{"query": "How mnay AI models are in use?", "query_classification": "Queries with misspellings"}
+{"query": "What is the projeected market size?", "query_classification": "Queries with misspellings"}
+{"query": "Impacts of AI on the econommy", "query_classification": "Queries with misspellings"}
+{"query": "Best practies for AI deployement", "query_classification": "Queries with misspellings"}
+{"query": "Chalenges faced by AI resarchers", "query_classification": "Queries with misspellings"}
+{"query": "What are the key benefitts of AI?", "query_classification": "Queries with misspellings"}
+{"query": "AI's effect on jobs creation", "query_classification": "Queries with misspellings"}
+{"query": "How many countries are usig AI?", "query_classification": "Queries with misspellings"}
+{"query": "AI in healthcare: what its role?", "query_classification": "Queries with misspellings"}
+{"query": "Regulations around AIs in 2024", "query_classification": "Queries with misspellings"}
+{"query": "Explain how AI impacts climate change.", "query_classification": "Long queries"}
+{"query": "What are the benefits of AI in education and training programs?", "query_classification": "Long queries"}
+{"query": "Discuss the challenges of ensuring ethical AI development in modern applications.", "query_classification": "Long queries"}
+{"query": "How do different industries utilize AI to enhance their operational efficiency?", "query_classification": "Long queries"}
+{"query": "What predictions does the State of AI report make about AI's future in the next decade?", "query_classification": "Long queries"}
+{"query": "Explain the importance of model transparency and accountability in AI systems.", "query_classification": "Long queries"}
+{"query": "What are the implications of advanced AI systems for global job markets?", "query_classification": "Long queries"}
+{"query": "How can AI improve healthcare outcomes while addressing privacy concerns?", "query_classification": "Long queries"}
+{"query": "What role does collaboration play in advancing AI research and applications across borders?", "query_classification": "Long queries"}
+{"query": "Discuss the technical advancements that enable multimodal AI capabilities in recent models.", "query_classification": "Long queries"}
+{"query": "What AI model will dominate the market?", "query_classification": "Medium queries"}
+{"query": "How do AI advancements influence economic growth?", "query_classification": "Medium queries"}
+{"query": "What are the ethical implications of AI in military applications?", "query_classification": "Medium queries"}
+{"query": "How is AI used in drug discovery and development?", "query_classification": "Medium queries"}
+{"query": "What impact does AI have on environmental sustainability?", "query_classification": "Medium queries"}
+{"query": "How does the State of AI report assess global AI policies?", "query_classification": "Medium queries"}
+{"query": "What are the societal implications of widespread AI adoption?", "query_classification": "Medium queries"}
+{"query": "How do AI technologies enhance data security measures?", "query_classification": "Medium queries"}
+{"query": "What challenges do startups face in the AI landscape?", "query_classification": "Medium queries"}
+{"query": "How is AI transforming the landscape of creative industries?", "query_classification": "Medium queries"}
+{"query": "AI in business", "query_classification": "Short queries"}
+{"query": "Impact of AI", "query_classification": "Short queries"}
+{"query": "Future of AI", "query_classification": "Short queries"}
+{"query": "AI advancements", "query_classification": "Short queries"}
+{"query": "AI regulations", "query_classification": "Short queries"}
+{"query": "AI and safety", "query_classification": "Short queries"}
+{"query": "AI technologies", "query_classification": "Short queries"}
+{"query": "AI trends", "query_classification": "Short queries"}
+{"query": "AI in healthcare", "query_classification": "Short queries"}
+{"query": "AI ethics", "query_classification": "Short queries"}
+{"query": "AI applications", "query_classification": "Short queries"}
