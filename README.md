@@ -43,7 +43,7 @@ This repository contains a collection of Jupyter notebooks that demonstrate vari
     Builds a multi-agent medical decision support system for cardiology, generating personalized treatment recommendations based on guidelines using Azure AI Search, Azure OpenAI, LlamaIndex, LlamaParse, and CrewAI.
 13. **[[NEW] Azure AI Search Multimodal RAG using Contextual Retrieval](azure-ai-search-contextual-retreival.ipynb)**  
     Build a multidmodal RAG query engine using LlamaParse Premium, Azure OpenAI, Azure AI Search, and Arize Phoenix with Contextual Retrieval. 
-13. **[[NEW] Azure AI Search Multimodal RAG using Contextual Retrieval](azure-ai-search-openai-swarm.ipynb)**  
+13. **[[NEW] Azure AI Search using OpenAI Swarm Multi-Agent](azure-ai-search-openai-swarm.ipynb)**  
     Build a mult-agent system using the OpenAI Swarm Experimental Framework using Azure AI Search and Azure OpenAI. 
 
 
