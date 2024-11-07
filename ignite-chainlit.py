@@ -30,9 +30,9 @@ INDEX_NAME = "llamaindex-azure-aisearch-rag"
 
 # Initialize AzureOpenAIMultiModal for GPT-4o-mini
 azure_openai_mm_llm = AzureOpenAIMultiModal(
-    engine="gpt-4o-mini",
+    engine=AZURE_OPENAI_CHAT_COMPLETION_DEPLOYED_MODEL_NAME,
     api_version="2024-06-01",
-    model="gpt-4o-mini",
+    model=AZURE_OPENAI_CHAT_COMPLETION_DEPLOYED_MODEL_NAME,
     max_new_tokens=4096,
     api_key=AZURE_OPENAI_API_KEY,
     api_base=AZURE_OPENAI_ENDPOINT,
