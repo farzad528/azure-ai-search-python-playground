@@ -125,3 +125,4 @@ Thumbs.db
 # Optionally ignore local Streamlit config if it's environment-specific
 .streamlit/config.toml
 *.pptx
+.chainlit
