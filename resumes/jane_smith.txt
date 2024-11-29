@@ -1,0 +1,25 @@
+
+    Jane Smith
+    AI Research Engineer
+
+    Experience:
+    - AI Research Lead at DataMinds (2020-Present)
+      * Published 3 papers on NLP architectures
+      * Developed novel attention mechanism improving accuracy by 25%
+      * Led research team of 3 PhD candidates
+    
+    - ML Engineer at AITech (2018-2020)
+      * Implemented computer vision models for autonomous systems
+      * Reduced model inference time by 35%
+      * Collaborated with cross-functional teams
+
+    Skills:
+    - Deep Learning: PyTorch, TensorFlow
+    - NLP: Transformers, BERT, GPT
+    - Research: Paper Writing, Experimentation
+    - Languages: Python, C++
+    
+    Education:
+    - PhD in Machine Learning, Tech Institute (2020)
+    - M.S. AI, Data University (2018)
+    

@@ -1,0 +1,25 @@
+
+    John Doe
+    Senior Software Engineer
+
+    Experience:
+    - Lead Developer at TechCorp (2019-Present)
+      * Led team of 5 developers on cloud migration project
+      * Implemented MLOps pipeline reducing deployment time by 60%
+      * Mentored junior developers and conducted code reviews
+    
+    - Senior Software Engineer at InnovSoft (2016-2019)
+      * Developed machine learning models for predictive maintenance
+      * Architected microservices infrastructure using Kubernetes
+      * Improved system performance by 40%
+
+    Skills:
+    - Programming: Python, Java, Go
+    - Cloud & DevOps: Kubernetes, Docker, AWS
+    - Machine Learning: TensorFlow, PyTorch, MLOps
+    - Leadership: Team Management, Mentoring
+    
+    Education:
+    - M.S. Computer Science, Tech University (2016)
+    - B.S. Computer Science, State University (2014)
+    
