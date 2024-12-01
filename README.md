@@ -49,8 +49,10 @@ This repository includes a diverse range of Jupyter notebooks demonstrating inte
     Create a multi-agent system using the OpenAI Swarm Experimental Framework with Azure AI Search.
 15. **[Measuring Search Relevance with Ranx](azure-ai-search-eval-ranx.ipynb)**  
     Step-by-step guide to measure search relevance in Azure AI Search using Ranx.
-15. **[Getting Started with Voyage Multimodal Embeddings](azure-ai-search-voyage-multimodal)**  
+16. **[Getting Started with Voyage Multimodal Embeddings](azure-ai-search-voyage-multimodal)**  
     Exploring the voyage-multimodal-3 with interleaving text+image embedding inputs.
+17. **[HR Recruitment Agent with Semantic Kernel](azure-ai-search-recruitment-agent)**  
+    Build an automated HR Agent that screens resumes using Azure OpenAI Assistants API and Semantic Kernel.
 
 ## 🚀 Getting Started
 
