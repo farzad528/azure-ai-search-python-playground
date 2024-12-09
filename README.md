@@ -6,53 +6,63 @@ Welcome to the **Azure AI Search Python Playground**! This repository contains a
 
 This repository includes a diverse range of Jupyter notebooks demonstrating integrations and functionalities with Azure AI Search:
 
+### Foundational Techniques and Embeddings
 1. **[OpenAI Text-Embedding-3-Large Model Exploration](azure-ai-search-text-embedding-3-large.ipynb)**  
-   Explore enhanced search capabilities by integrating OpenAI's text-embedding-3-large model with Azure AI Search.
+   Enhance search relevance using the OpenAI text-embedding-3-large model.
 
 2. **[Cohere Embed-v3 Exploration](azure-ai-search-cohere-embed-v3.ipynb)**  
-   Improve embedding performance by leveraging the Cohere Embed-v3 model within Azure AI Search.
+   Improve embeddings and retrieval quality with the Cohere Embed-v3 model.
 
 3. **[Indexing and Querying CSV Data](azure-ai-search-csv.ipynb)**  
-   Learn how to index and query CSV data using Azure AI Search.
+   Learn how to index and query CSV datasets in Azure AI Search.
 
 4. **[Document Boosting Techniques](azure-ai-search-document-boosting.ipynb)**  
-   Enhance document relevance and search ranking in Azure AI Search.
+   Influence relevance scoring with document boosting strategies.
 
-5. **[RAG Evaluation with Tonic AI](azure-ai-search-rag-eval-tonic-ai.ipynb)**  
-   Evaluate RAG systems using Tonic AI Validate.
+5. **[Quantization Techniques](azure-ai-search-scalar-quantization.ipynb)**  
+   Optimize efficiency and performance through advanced quantization.
 
-6. **[RAG Evaluation with TruLens](azure-ai-search-rag-eval-trulens.ipynb)**  
-   Assess RAG systems leveraging the TruLens framework for improved evaluation.
+### RAG Evaluations and Quality Measurement
+6. **[RAG Evaluation with Tonic AI](azure-ai-search-rag-eval-tonic-ai.ipynb)**  
+   Assess Retrieval Augmented Generation (RAG) performance with Tonic AI Validate.
 
-7. **[Scalar Quantization Techniques](azure-ai-search-scalar-quantization.ipynb)**  
-   Optimize Azure AI Search performance using scalar quantization techniques.
+7. **[RAG Evaluation with TruLens](azure-ai-search-rag-eval-trulens.ipynb)**  
+   Gain insights into RAG solutions using TruLens.
 
-8. **[LlamaIndex Workflows](azure-ai-search-llamaindex-workflows.ipynb)**  
-   Build event-driven, asynchronous workflows using the LlamaIndex framework alongside Azure AI Search and OpenAI models.
+8. **[RAG Evaluation with Arize Phoenix](azure-ai-search-rag-eval-arize-ai.ipynb)**  
+   Monitor and improve RAG quality with Arize Phoenix analytics.
 
-9. **[RAG Evaluation with Arize Phoenix](azure-ai-search-rag-eval-arize-ai.ipynb)**  
-   Enhance RAG system analytics using Arize Phoenix AI.
+9. **[Measuring Search Relevance with Ranx](azure-ai-search-eval-ranx.ipynb)**  
+   Benchmark and quantify search relevance using Ranx.
 
-10. **[Legal AI Agent with CrewAI](azure-ai-search-legal-ai-agent.ipynb)**  
-    Create a CrewAI Agent for complex legal scenarios, utilizing Azure AI Search and Azure OpenAI.
+10. **[RAG Evaluation with LlamaIndex, Literal AI, and RAGAS](azure-ai-search-literal-ai-ragas.ipynb)**  
+    Refine and validate RAG pipelines using LlamaIndex, Literal AI logs, and RAGAS metrics.
 
-11. **[NVIDIA RAG with LlamaIndex](azure-ai-search-nvidia-rag.ipynb)**  
-    Construct a RAG system that integrates Azure AI Search and NVIDIA NIM APIs for embeddings and LLMs.
+### Advanced Workflows, Agents, and Multimodal Scenarios
+11. **[LlamaIndex Workflows](azure-ai-search-llamaindex-workflows.ipynb)**  
+    Orchestrate asynchronous search workflows with LlamaIndex and Azure AI Search.
 
-12. **[Medical AI Agent with CrewAI](azure-ai-search-medical-ai-agent.ipynb)**  
-    Develop a multi-agent medical decision support system for cardiology, generating personalized treatment recommendations.
+12. **[NVIDIA RAG with LlamaIndex](azure-ai-search-nvidia-rag.ipynb)**  
+    Build advanced RAG pipelines leveraging NVIDIA NIM embeddings and LlamaIndex.
 
 13. **[Multimodal RAG using Contextual Retrieval](azure-ai-search-contextual-retreival.ipynb)**  
-    Build a multimodal RAG query engine utilizing LlamaParse Premium, Azure OpenAI, Azure AI Search, and Arize Phoenix.
+    Integrate LlamaParse Premium, Azure OpenAI, and Arize Phoenix for multimodal retrieval.
 
 14. **[OpenAI Swarm Multi-Agent](azure-ai-search-openai-swarm.ipynb)**  
-    Create a multi-agent system using the OpenAI Swarm Experimental Framework with Azure AI Search.
-15. **[Measuring Search Relevance with Ranx](azure-ai-search-eval-ranx.ipynb)**  
-    Step-by-step guide to measure search relevance in Azure AI Search using Ranx.
-16. **[Getting Started with Voyage Multimodal Embeddings](azure-ai-search-voyage-multimodal)**  
-    Exploring the voyage-multimodal-3 with interleaving text+image embedding inputs.
-17. **[HR Recruitment Agent with Semantic Kernel](azure-ai-search-recruitment-agent)**  
-    Build an automated HR Agent that screens resumes using Azure OpenAI Assistants API and Semantic Kernel.
+    Experiment with multi-agent capabilities using the OpenAI Swarm framework.
+
+15. **[Getting Started with Voyage Multimodal Embeddings](azure-ai-search-voyage-multimodal)**  
+    Explore voyage-multimodal-3 embeddings for combined text-image retrieval.
+
+16. **[HR Recruitment Agent with Semantic Kernel](azure-ai-search-recruitment-agent)**  
+    Automate HR candidate screening with a Semantic Kernel-driven agent.
+
+### Domain-Specific Agents and Applications
+17. **[Legal AI Agent with CrewAI](azure-ai-search-legal-ai-agent.ipynb)**  
+    Build a CrewAI Agent for complex legal queries, integrating Azure AI Search and Azure OpenAI.
+
+18. **[Medical AI Agent with CrewAI](azure-ai-search-medical-ai-agent.ipynb)**  
+    Develop a multi-agent medical assistant for cardiology scenarios.
 
 ## 🚀 Getting Started
 
