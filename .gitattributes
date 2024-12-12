@@ -1,2 +1,5 @@
 *.pptx filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.parquet filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 2f5c895841fc016096dd84251f67fc4fbb230151
