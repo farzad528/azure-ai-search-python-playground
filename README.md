@@ -21,6 +21,9 @@ This repository includes a diverse range of Jupyter notebooks demonstrating inte
 
 5. **[Quantization Techniques](azure-ai-search-scalar-quantization.ipynb)**  
    Optimize efficiency and performance through advanced quantization.
+   
+5. **[Maximum Marginal Relevance](azure-ai-search-maximum-marignal-relevance.ipynb)**  
+   Post-Process Vector Search Results using MMR (Maximum Marginal Relevance)
 
 ### RAG Evaluations and Quality Measurement
 6. **[RAG Evaluation with Tonic AI](azure-ai-search-rag-eval-tonic-ai.ipynb)**  
