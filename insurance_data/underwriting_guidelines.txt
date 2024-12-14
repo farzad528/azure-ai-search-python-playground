@@ -1,0 +1,5 @@
+guideline_id,criterion,threshold_or_condition,required_action
+U1,"High-value claims","claim_amount>25000","escalate_to_senior_underwriter"
+U2,"Flood coverage requirement","flood_claim==True AND flood_coverage==False","deny_claim"
+U3,"Require professional estimate","claim_amount>5000","request_professional_estimate"
+U4,"Missing police report on theft","theft_claim==True AND police_report=='NO'","request_additional_docs"

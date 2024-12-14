@@ -1,0 +1,4 @@
+question_id,question_text,answer_text
+101,"How do I file a claim?","Log into your BlueSky portal, select 'File a Claim', and follow the steps."
+102,"Does my homeowner’s policy cover flood damage?","Flood damage requires a separate flood endorsement unless stated otherwise."
+103,"What documents do I need for a major damage claim?","Professional repair estimates, invoices for replaced items, and if applicable, a police report."

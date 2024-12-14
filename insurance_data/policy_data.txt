@@ -1,0 +1,5 @@
+policy_number,policy_state,coverage_type,coverage_limit,deductible,endorsements,flood_coverage,liability_limit,policy_start_date,policy_end_date
+521585,OH,Homeowner,300000,1000,"{fire:yes,water:yes}",no,100000,2014-10-17,2025-10-17
+342868,IN,Auto,250000,2000,"{theft:yes}",no,500000,2006-06-27,2026-06-27
+687698,OH,Homeowner,350000,2000,"{fire:yes,water:yes}",yes,100000,2000-09-06,2030-09-06
+227811,IL,Homeowner,300000,2000,"{fire:yes}",no,100000,1990-05-25,2030-05-25

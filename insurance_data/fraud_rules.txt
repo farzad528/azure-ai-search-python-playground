@@ -1,0 +1,5 @@
+rule_id,pattern_description,trigger_condition,action
+1,"Multiple small claims in 6 months","num_small_claims_6mo>2","flag_suspicious"
+2,"Inconsistent incident date vs. report date","date_mismatch==True","request_additional_docs"
+3,"Suspicious theft claims without police report","theft_claim==True AND police_report=='NO'","flag_suspicious"
+4,"Frequent total loss collisions at odd hours","nighttime_collision==True AND total_loss==True","flag_suspicious"
