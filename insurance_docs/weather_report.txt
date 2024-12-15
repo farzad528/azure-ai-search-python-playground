@@ -1,8 +1,31 @@
+NOAA SEVERE WEATHER REPORT
+--------------------------
+Report Date: December 15, 2024
+Event: Hurricane Alicia (2024 Season)
 
-        NOAA Storm Report
-        Date: December 12-13, 2024
-        Region: Tampa Bay Area, Florida
-        Hurricane Ian Data:
-        - Category: 3 Hurricane
-        - Peak Wind Speed: 125 mph...
-        
+STORM DETAILS
+-------------
+Category: 3
+Max Sustained Winds: ~120 mph
+Min Central Pressure: ~950 mb
+
+HOUSTON AREA IMPACT
+-------------------
+Landfall: Near Galveston, TX
+Time: May 15, 2024, ~02:10 AM CST
+Duration of Severe Conditions: 6-8 hours over Houston
+
+METEOROLOGY
+-----------
+Winds: Sustained 100-120 mph, Gusts 130+ mph
+Rainfall: 10-14 inches total, peak 3 in/hr
+Storm Surge: 8-10 feet along coastal areas
+
+DAMAGE POTENTIAL
+----------------
+Infrastructure Risk: Very High
+Property Damage Likelihood: High
+Business Disruption Probability: Significant
+
+Issued By: Dr. Marisol Reyes
+National Hurricane Center - Houston Office

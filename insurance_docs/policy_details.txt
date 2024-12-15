@@ -1,6 +1,37 @@
+FABRIKAM INSURANCE COMMERCIAL POLICY
+-------------------------------------
+Policy Number: CP-TX-2024087
+Policyholder: Contoso Electronics Inc.
+Policy Period: January 1, 2024 - December 31, 2024
+Policy Type: Comprehensive Commercial Property Insurance
 
-        Policy Number: CP-FL-789201
-        Policyholder: SmartMart Electronics Inc.
-        Policy Type: Commercial Property Insurance
-        Term: January 1, 2024 - December 31, 2024...
-        
+COVERAGE & LIMITS
+-----------------
+Total Insured Value: $2,000,000
+Hurricane/Wind Coverage: Included
+Flood Coverage: Included (Deductible: $50,000)
+Business Interruption: Included (sub-limit $500,000)
+Replacement Cost: Included
+
+Sublimits:
+- Building Structure: Up to $1,000,000
+- Business Property (Incl. Inventory): Up to $600,000
+- Electronic Equipment: Up to $200,000
+
+DEDUCTIBLES
+-----------
+Hurricane/Wind Deductible: 5% of total insured value ($100,000)
+Flood Deductible: $50,000
+Standard Deductible: $25,000
+
+ENDORSEMENTS & NOTES
+--------------------
+- Hurricane Preparedness Credit applied
+- Extended Replacement Cost Endorsement active
+- Business Interruption Rider active
+
+UNDERWRITING
+------------
+Underwriter: Fabrikam Insurance Underwriting Dept.
+Last Risk Assessment: April 5, 2024 (No major hazards noted at that time)
+Annual Premium: $42,000 paid in full on January 5, 2024

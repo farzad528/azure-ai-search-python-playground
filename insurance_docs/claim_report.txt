@@ -1,9 +1,44 @@
+INSURANCE CLAIM REPORT
+----------------------
+Claim ID: HURTX-2024-0456
+Date Filed: December 15, 2024
+Claimant: Contoso Electronics Inc.
+Store Location: Contoso Electronics #TX-230
+Address: 1125 Main Street, Houston, TX 77002
+Contact: Gabriel Allen (Store Manager)
+Contact Phone: (713) 555-4422
+Contact Email: gabriel.allen@contoso.com
 
-        Claim ID: HURFL-2024-0113
-        Date Filed: December 13, 2024
-        Store Location: SmartMart Electronics #FL-156
-        Address: 2850 Commercial Blvd, Tampa, FL 33618
+DAMAGE ASSESSMENT
+-----------------
+Incident Type: Hurricane Alicia
+Date of Incident: May 15, 2024
+Time of Incident: ~02:30 AM CST
 
-        Initial Damage Report:
-        Store manager Michael Chen reported severe water damage following Hurricane Ian...
-        
+DAMAGE DETAILS
+--------------
+- Severe roof damage and water intrusion on the south side
+- Flooded inventory storage (electronics submerged)
+- Electrical panels shorted due to water ingress
+- Potential structural compromise in south wing support beams
+
+Preliminary Damage Estimates:
+- Inventory Loss: $380,000
+- Structural Damage: $200,000
+- Equipment Replacement: $160,000
+- Business Interruption: TBD (further accounting needed)
+
+Mitigation Steps Taken:
+1. Secure site and prevent unauthorized entry
+2. Engage emergency restoration team for water extraction
+3. Move salvageable inventory to upper floors
+4. Temporary roof patch installed
+
+Photos and videos available. Awaiting professional structural engineer’s report.
+
+FILED BY
+--------
+Adjuster: Lauren Chen
+Fabrikam Insurance Adjuster ID: TX-ADJ-3112
+Agency: Gulf Coast Claims Solutions
+Initial On-Site Visit: December 16, 2024
