@@ -57,15 +57,18 @@ This repository includes a diverse range of Jupyter notebooks demonstrating inte
 15. **[Getting Started with Voyage Multimodal Embeddings](azure-ai-search-voyage-multimodal)**  
     Explore voyage-multimodal-3 embeddings for combined text-image retrieval.
 
-16. **[HR Recruitment Agent with Semantic Kernel](azure-ai-search-recruitment-agent)**  
-    Automate HR candidate screening with a Semantic Kernel-driven agent.
-
 ### Domain-Specific Agents and Applications
 17. **[Legal AI Agent with CrewAI](azure-ai-search-legal-ai-agent.ipynb)**  
     Build a CrewAI Agent for complex legal queries, integrating Azure AI Search and Azure OpenAI.
 
 18. **[Medical AI Agent with CrewAI](azure-ai-search-medical-ai-agent.ipynb)**  
     Develop a multi-agent medical assistant for cardiology scenarios.
+
+18. **[Insurance Claims Agent with Semantic Kernel](azure-ai-search-insurance-claims-agent.ipynb)**  
+    Develop a multi-agent insurance assistant for Hurricane damage to your property.
+
+19. **[HR Recruitment Agent with Semantic Kernel](azure-ai-search-recruitment-agent)**  
+    Automate HR candidate screening with a Semantic Kernel-driven agent.
 
 ## 🚀 Getting Started
 
