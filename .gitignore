@@ -126,3 +126,6 @@ Thumbs.db
 .streamlit/config.toml
 *.pptx
 .chainlit
+
+# Cached embeddings
+pplx_embeddings.json

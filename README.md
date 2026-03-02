@@ -22,8 +22,11 @@ This repository includes a diverse range of Jupyter notebooks demonstrating inte
 5. **[Quantization Techniques](azure-ai-search-scalar-quantization.ipynb)**  
    Optimize efficiency and performance through advanced quantization.
    
-5. **[Maximum Marginal Relevance](azure-ai-search-maximum-marignal-relevance.ipynb)**  
+5. **[Maximum Marginal Relevance](azure-ai-search-maximum-marignal-relevance.ipynb)**
    Post-Process Vector Search Results using MMR (Maximum Marginal Relevance)
+
+6. **[Perplexity Contextualized Embeddings + Hybrid Search](azure-ai-search-perplexity-contextualized-embeddings.ipynb)** 🆕
+   Multi-document pipeline demo: PDFs → contextualized embeddings (pplx-embed) → Azure AI Search hybrid search. Indexes two arxiv papers (Transformer + GraphRAG) to showcase Perplexity's "golden chunk" retrieval where chunks share document-level context, multi-document embedding in a single API call, and hybrid search with semantic reranking.
 
 ### RAG Evaluations and Quality Measurement
 6. **[RAG Evaluation with Tonic AI](azure-ai-search-rag-eval-tonic-ai.ipynb)**  
